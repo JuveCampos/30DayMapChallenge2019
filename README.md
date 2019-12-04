@@ -18,3 +18,12 @@ En el presente repositorio iré mostrando los mapas que fuí realizando para dic
 En este mapa se muestra el código para hacer mapas de municipios con enclaves presentes dentro del conjunto de municipios de la República Mexicana. El código contiene una función para hacer highlight sobre un municipio, `x`, de interés. 
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/14.%20Boundaries.png)
+
+## Día 17. Zonas (Zones)
+
+Mapa de la zonificación geotécnica de la Ciudad de México. Esta zonificación está en función de las características y propiedades del suelo de la ciudad y de regiones circundantes del EdoMex. Estas características definen el comportamiento de este tipo de suelos ante sísmos y movimientos telúricos. 
+
+**Datos:** Atlas de Riesgo de la Ciudad de México  
+**Herramienta:** RStats {leaflet}.
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/17.%20Zones.png)
