@@ -27,3 +27,14 @@ Mapa de la zonificación geotécnica de la Ciudad de México. Esta zonificación
 **Herramienta:** RStats {leaflet}.
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/17.%20Zones.png)
+
+## Dia 25. Clima (Climate). 
+
+Mapa donde se muestran los polígonos de las regiones de los climas bajo la clasificación de Köppen. 
+**Datos:** INEGI. https://www.inegi.org.mx/temas/climatologia/
+**Herramienta:** RStats {leaflet}.
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/25.%20Climate.png)
+
+
+
