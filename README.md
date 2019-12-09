@@ -17,6 +17,11 @@ En el presente repositorio iré mostrando los mapas que fuí realizando para dic
 
 En este mapa se muestra el código para hacer mapas de municipios con enclaves presentes dentro del conjunto de municipios de la República Mexicana. El código contiene una función para hacer highlight sobre un municipio, `x`, de interés. 
 
+**Datos:** Municipios de México, 2010. 
+http://www.conabio.gob.mx/informacion/gis/
+
+**Herramienta:** RStats {leaflet}.
+
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/14.%20Boundaries.png)
 
 ## Día 17. Zonas (Zones)
@@ -35,6 +40,18 @@ Mapa donde se muestran los polígonos de las regiones de los climas bajo la clas
 **Herramienta:** RStats {leaflet}.
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/25.%20Climate.png)
+
+## Dia 27. Recursos. (Resources). 
+
+Mapa que muestra la situación de explotación de los acuíferos cercanos a la Ciudad de México y su zona metropolitana. 
+
+**Datos:**  SINA-CONAGUA, Sección de Acuíferos.
+http://sina.conagua.gob.mx/sina/tema.php?tema=acuiferos&ver=mapa&o=0&n=nacional
+
+**Herramienta:** RStats {leaflet}.
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/27.%20Resources.jpeg)
+
 
 ## Dia 28. Divertido (Funny). 
 
