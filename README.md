@@ -36,5 +36,14 @@ Mapa donde se muestran los polígonos de las regiones de los climas bajo la clas
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/25.%20Climate.png)
 
+## Dia 28. Divertido (Funny). 
+
+Mapa donde se muestra que el estado de San Luis Potosí tiene forma de perrito. 
+
+**Aclaración:** Si parece un Scottish Terrier pero la verdad me gustan mas los Schnauzers y le ví más cara de Schnauzer que de la otra raza. (Sesgo de Schnauzer o _Schnauzer´s Bias_).
+
+**Herramientas:** RStats {leaflet} con post-producción en Keynote (Apple).
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/28.%20Funny.jpg)
 
 
