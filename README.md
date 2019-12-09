@@ -28,15 +28,30 @@ http://www.conabio.gob.mx/informacion/gis/
 
 Mapa de la zonificación geotécnica de la Ciudad de México. Esta zonificación está en función de las características y propiedades del suelo de la ciudad y de regiones circundantes del EdoMex. Estas características definen el comportamiento de este tipo de suelos ante sísmos y movimientos telúricos. 
 
-**Datos:** Atlas de Riesgo de la Ciudad de México  
+**Datos:** Atlas de Riesgo de la Ciudad de México.
+
 **Herramienta:** RStats {leaflet}.
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/17.%20Zones.png)
 
+
+## Dia 24. Estadísticas (Statistics). 
+
+Mapa de diversas estadísticas e indicadores generados en el Laboratorio Nacional de Políticas Públicas, y publicadas con motivo de esta día del Challenge. La mayoría consta de tasas a nivel estatal de la información mencionada. 
+
+**Datos:** Indicadores LNPP. 
+
+**Herramienta:** RStats {leaflet, magick}.  
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/24.%20Statistics.gif)
+
+
 ## Dia 25. Clima (Climate). 
 
 Mapa donde se muestran los polígonos de las regiones de los climas bajo la clasificación de Köppen. 
+
 **Datos:** INEGI. https://www.inegi.org.mx/temas/climatologia/
+
 **Herramienta:** RStats {leaflet}.
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/25.%20Climate.png)
@@ -46,6 +61,7 @@ Mapa donde se muestran los polígonos de las regiones de los climas bajo la clas
 Mapa que muestra la situación de explotación de los acuíferos cercanos a la Ciudad de México y su zona metropolitana. 
 
 **Datos:**  SINA-CONAGUA, Sección de Acuíferos.
+
 http://sina.conagua.gob.mx/sina/tema.php?tema=acuiferos&ver=mapa&o=0&n=nacional
 
 **Herramienta:** RStats {leaflet}.
