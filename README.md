@@ -13,6 +13,16 @@ Las temáticas propuestas fueron las siguientes:
 
 En el presente repositorio iré mostrando los mapas que fuí realizando para dicho evento. 
 
+## Dia 7. Rojo (Red). 
+
+En este mapa mostramos el mapa de nombres del jitomate en las distintas entidades de la República Mexicana. 
+
+**Datos:** RAE y sondeo con conocidos. 
+
+**Herramientas:** RStats {Leaflet}.
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/7.%20Red.png)
+
 ## Dia 12. Movimiento (Movement). 
 
 Elaboración de un “.gif de un trabajo realizado con datos de Ecoboci de la Ciudad de México. 
