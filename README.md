@@ -13,6 +13,15 @@ Las temáticas propuestas fueron las siguientes:
 
 En el presente repositorio iré mostrando los mapas que fuí realizando para dicho evento. 
 
+## Dia 12. Movimiento (Movement). 
+
+Elaboración de un “.gif de un trabajo realizado con datos de Ecoboci de la Ciudad de México. 
+
+El trabajo original puede consultarse en http://appecobici.jjsantoso.com 
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/12.%20Movement.gif)
+
+
 ## Dia 14. Límites (Boundaries)
 
 En este mapa se muestra el código para hacer mapas de municipios con enclaves presentes dentro del conjunto de municipios de la República Mexicana. El código contiene una función para hacer highlight sobre un municipio, `x`, de interés. 
