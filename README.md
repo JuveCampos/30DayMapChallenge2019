@@ -65,6 +65,24 @@ Visitable (si sigue disponible) en la siguiente dirección: https://juvecampos.s
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/18.%20Globe.jpeg)
 
+## Dia 19. Urbano (Urban). 
+
+Mapa de las rutas de transporte concecionado en la CDMX y los eventos de Robo a Pasajeros reportados por la ADIP en 2018 en las distintas rutas de transporte de la Ciudad. 
+
+**Datos:**
+
+1. _Rutas de transporte concesionado:_
+
+https://datos.cdmx.gob.mx/explore/dataset/rutas-y-corredores-del-transporte-publico-concesionado/custom/
+
+2. _Carpetas de investigación:_
+
+https://datos.cdmx.gob.mx/explore/dataset/carpetas-de-investigacion-pgj-cdmx/custom/
+
+**Herramientas:** RStats {leaflet}
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/19.%20Urban.png)
+
 
 ## Dia 24. Estadísticas (Statistics). 
 
