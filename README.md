@@ -53,6 +53,11 @@ Mapa de la zonificación geotécnica de la Ciudad de México. Esta zonificación
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/17.%20Zones.png)
 
+## Dia 18. Globo (Globe). 
+
+
+
+
 
 ## Dia 24. Estadísticas (Statistics). 
 
