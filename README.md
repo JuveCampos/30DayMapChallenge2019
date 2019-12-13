@@ -13,6 +13,16 @@ Las temáticas propuestas fueron las siguientes:
 
 En el presente repositorio iré mostrando los mapas que fuí realizando para dicho evento. 
 
+## Dia 6. Azul (Blue).
+
+Mapa que muestra la distribución de los votos obtenidos por el Candidato del PAN-coalición en las elecciones extraordinarias de Puebla del 2019. En este mapa se ve la excesiva concentración de votos en el municipio de Puebla, el cual concentró casi el 50% de los votos emitidos para este candidato.
+
+**Datos:** Prep de las elecciones extraordinarias de Puebla, consultable en: https://prep2019-pue.ine.mx/publicacion/basedatos
+
+**Herramientas:** RStats {leaflet}
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/06.%20Blue.png)
+
 ## Dia 7. Rojo (Red). 
 
 En este mapa mostramos el mapa de nombres del jitomate en las distintas entidades de la República Mexicana. 
