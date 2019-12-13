@@ -55,8 +55,15 @@ Mapa de la zonificación geotécnica de la Ciudad de México. Esta zonificación
 
 ## Dia 18. Globo (Globe). 
 
+Shiny con visualización de globo a partir de Plotly.
 
+Visitable (si sigue disponible) en la siguiente dirección: https://juvecampos.shinyapps.io/shinyAlcohol/
 
+**Datos:**  Los datos de consumo de alcohol en mayores de 18 años por país del mundo provienen de https://ourworldindata.org/alcohol-consumption. 
+
+**Herramienta:** RStats {plotly, shiny}
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/18.%20Globe.jpeg)
 
 
 ## Dia 24. Estadísticas (Statistics). 
