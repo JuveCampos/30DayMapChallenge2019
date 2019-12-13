@@ -1,0 +1,12 @@
+name: shinyAlcohol
+title: shinyAlcohol
+username:
+account: juvecampos
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1504173
+bundleId: 2605621
+url: https://juvecampos.shinyapps.io/shinyAlcohol/
+when: 1574297192.44901
+asMultiple: FALSE
+asStatic: FALSE
