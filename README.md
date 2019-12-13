@@ -23,6 +23,18 @@ En este mapa mostramos el mapa de nombres del jitomate en las distintas entidade
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/7.%20Red.png)
 
+## Dia 8. Verde (Green). 
+
+Mapa que muestra, por estado, la composición de la comunidad de estudiantes de Chapingo en el 2018. 
+
+**Datos:** Anuario de Chapingo 2005-2018 
+
+http://upom.chapingo.mx/Descargas/base_datos/acumuladas/BD_Alumnos_2005-2018.xlsx
+
+**Herramientas:** RStats {ggplot2}.
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/08.%20Green.jpeg)
+
 ## Dia 12. Movimiento (Movement). 
 
 Elaboración de un “.gif de un trabajo realizado con datos de Ecoboci de la Ciudad de México. 
@@ -30,7 +42,6 @@ Elaboración de un “.gif de un trabajo realizado con datos de Ecoboci de la Ci
 El trabajo original puede consultarse en http://appecobici.jjsantoso.com 
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/12.%20Movement.gif)
-
 
 ## Dia 14. Límites (Boundaries)
 
