@@ -1,4 +1,4 @@
-# 30DayMapChallenge2019
+﻿# 30DayMapChallenge2019
 Repositorio de códigos de los mapas del #30DayMapChallenge
 
 Durante el mes de Noviembre se realizó el primer #30DayMapChallenge, el cuál, como el inktober de los ilustradores y diseñadores graficos, consistió en un desafío para elaborar, a lo largo del mes, 1 mapa con una diferente temática por día. El reto organizado por de @tjukanov, y llevado a cabo por geógrafos, cartógrafos, científicos de datos y Datavizeros a lo largo del mundo. 
@@ -12,6 +12,16 @@ Las temáticas propuestas fueron las siguientes:
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/0.%20Tematicas.jpeg)
 
 En el presente repositorio iré mostrando los mapas que fuí realizando para dicho evento. 
+
+## Dia 5. Raster. 
+
+Mapa de la Temperatura Máxima Promedio en los estados de la Frontera Norte de la República Mexicana. 
+
+**Datos:** Uniatmos, UNAM. 
+
+**Herramientas:** RStats {leaflet, magick}
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/05.%20Raster.png)
 
 ## Dia 6. Azul (Blue).
 
@@ -31,7 +41,7 @@ En este mapa mostramos el mapa de nombres del jitomate en las distintas entidade
 
 **Herramientas:** RStats {Leaflet}.
 
-![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/7.%20Red.png)
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/07.%20Red.png)
 
 ## Dia 8. Verde (Green). 
 
