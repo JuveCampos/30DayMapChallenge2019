@@ -21,7 +21,7 @@ Mapa de la Temperatura Máxima Promedio en los estados de la Frontera Norte de l
 
 **Herramientas:** RStats {leaflet, magick}
 
-![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/05.%20Raster.png)
+![](https://github.com/JuveCampos/30DayMapChallenge2019/raw/master/imagenesRepo30days/05.%20Raster.gif)
 
 ## Dia 6. Azul (Blue).
 
