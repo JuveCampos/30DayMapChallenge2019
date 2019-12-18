@@ -45,6 +45,16 @@ http://upom.chapingo.mx/Descargas/base_datos/acumuladas/BD_Alumnos_2005-2018.xls
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/08.%20Green.jpeg)
 
+## Dia 11. Elevación. 
+
+Visualización de la elevación de la región de los Altos de Morelos, en el Estado de Morelos, abarcando los municipios de Yecapixtla, Tetela del Volcán, Ocuituco y Zacualpan de Amilpas, así como municipios del Estado de México (Ecatzingo) y Puebla (Tochimilco) próximos al volcán Popocatépetl, el cuál se aprecia como el punto más alto. 
+
+**Datos:** Consulta del API del USGS en base a la función de @wcmbishop
+
+**Herramientas:** RStats {raster, rayshader, magick}
+
+![](https://github.com/JuveCampos/30DayMapChallenge2019/raw/master/imagenesRepo30days/11.%20Elevacion.gif)
+
 ## Dia 12. Movimiento (Movement). 
 
 Elaboración de un “.gif de un trabajo realizado con datos de Ecoboci de la Ciudad de México. 
