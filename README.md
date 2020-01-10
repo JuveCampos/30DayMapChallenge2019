@@ -84,6 +84,17 @@ http://www.conabio.gob.mx/informacion/gis/
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/14.%20Boundaries.png)
 
+## Dia 15. Nombres (Names)
+
+Nube de palabras (con un mapa de México) de las palabras mas utilizadas en los nombres de  los municipios de México. 
+
+**Datos:** Municipios de México, 2018. 
+http://www.conabio.gob.mx/informacion/gis/
+
+**Herramienta:** RStats {tm, WordCloud2} y Keynote para post-producción.
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/15.%20Names.png)
+
 ## Día 17. Zonas (Zones)
 
 Mapa de la zonificación geotécnica de la Ciudad de México. Esta zonificación está en función de las características y propiedades del suelo de la ciudad y de regiones circundantes del EdoMex. Estas características definen el comportamiento de este tipo de suelos ante sísmos y movimientos telúricos. 
