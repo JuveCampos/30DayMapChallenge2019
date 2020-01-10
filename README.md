@@ -93,7 +93,7 @@ http://www.conabio.gob.mx/informacion/gis/
 
 **Herramienta:** RStats {tm, WordCloud2} y Keynote para post-producción.
 
-![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/15.%20Names.png)
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/15.%20Names.jpeg)
 
 ## Día 17. Zonas (Zones)
 
