@@ -55,6 +55,12 @@ http://upom.chapingo.mx/Descargas/base_datos/acumuladas/BD_Alumnos_2005-2018.xls
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/08.%20Green.jpeg)
 
+## Dia 10. Blanco y Negro (Black and white). 
+
+Mapa de la densidad de población del estado de Morelos, a partir del cual podemos ver en que zonas del estado se concentra la mayor población. Data de población proveniente de [humdata.org](https://data.humdata.org/dataset/mexico-high-resolution-population-density-maps-demographic-estimates) y perímetro del estado de Morelos de la colección SIG de la CONABIO. 
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/10.%20BlackAndWhite.png)
+
 ## Dia 11. Elevación. 
 
 Visualización de la elevación de la región de los Altos de Morelos, en el Estado de Morelos, abarcando los municipios de Yecapixtla, Tetela del Volcán, Ocuituco y Zacualpan de Amilpas, así como municipios del Estado de México (Ecatzingo) y Puebla (Tochimilco) próximos al volcán Popocatépetl, el cuál se aprecia como el punto más alto. 
@@ -142,6 +148,16 @@ https://datos.cdmx.gob.mx/explore/dataset/carpetas-de-investigacion-pgj-cdmx/cus
 Densidad de población en las zonas denominadas por el gobierno de la Ciudad de México como _"Suelo de conservación"_. Data de población proveniente de [humdata.org](https://data.humdata.org/dataset/mexico-high-resolution-population-density-maps-demographic-estimates) y _shapefile_ del suelo de conservación proveniente del Atlas de Riesgo de la Ciudad de México. 
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/22.%20Built%20Environment.png)
+
+## Dia 23. Población (Population). 
+
+Datos de densidad de población para el estado de Campeche, México. Datos provenientes de [humdata.org](https://data.humdata.org/dataset/mexico-high-resolution-population-density-maps-demographic-estimates). Mismo algoritmo que el mapa del día 10 Black and White. 
+
+¿Por qué Campeche? 
+Porque fue el único mapa que pude hacer sin que mi computadora se quedara trabada (+100MB). 
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/23.%20Population.png)
+
 
 ## Dia 24. Estadísticas (Statistics). 
 
