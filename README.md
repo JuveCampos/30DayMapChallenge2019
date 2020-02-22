@@ -135,6 +135,13 @@ https://datos.cdmx.gob.mx/explore/dataset/carpetas-de-investigacion-pgj-cdmx/cus
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/19.%20Urban.png)
 
+## Dia 22. Ambiente Construido (Built Environment). 
+
+**Herramientas:** RStats {leaflet}
+
+Densidad de población en las zonas denominadas por el gobierno de la Ciudad de México como _"Suelo de conservación"_. Data de población proveniente de [humdata.org](https://data.humdata.org/dataset/mexico-high-resolution-population-density-maps-demographic-estimates) y _shapefile_ del suelo de conservación proveniente del Atlas de Riesgo de la Ciudad de México. 
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/22.%20Built%20Environment.png)
 
 ## Dia 24. Estadísticas (Statistics). 
 
