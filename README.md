@@ -83,6 +83,35 @@ El trabajo original puede consultarse en http://appecobici.jjsantoso.com
 
 En este mapa se muestra el código para hacer mapas de municipios con enclaves presentes dentro del conjunto de municipios de la República Mexicana. El código contiene una función para hacer highlight sobre un municipio, `x`, de interés. 
 
+**Municipios considerados:**
+
+* Tlalnepantla de Baz, EDOMEX
+
+* Acatlán, Puebla
+
+* Chiautla, Puebla
+
+* Tecomatlán, Puebla
+
+* Zimatlán de Álvarez, Oaxaca
+
+* Santo Domingo Tehuantepec, Oaxaca
+
+* Cozumel, Quintana Roo
+
+* Ayahualulco, Veracruz
+
+* Jaltenco, EDOMEX
+
+* Otumba, EDOMEX
+
+* Almoloya de Alquisiras, EDOMEX
+
+* San Martín de las Pirámides, EDOMEX
+
+* Tultitlán, EDOMEX
+
+
 **Datos:** Municipios de México, 2010. 
 http://www.conabio.gob.mx/informacion/gis/
 
