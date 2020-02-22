@@ -203,4 +203,8 @@ Mapa donde se muestra que el estado de San Luis Potosí tiene forma de perrito.
 
 ![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/28.%20Funny.jpg)
 
+## Dia 30. Hogar (Home). 
 
+Imágen de la densidad de población de mi municipio, en la cual se logran vislumbrar las manchas que representan a cada una de las 8 principales comunidades de Ocuituco Morelos. 
+
+![](https://raw.githubusercontent.com/JuveCampos/30DayMapChallenge2019/master/imagenesRepo30days/30.%20Home.png)
