@@ -6,7 +6,7 @@ library(stringr)
 niveles <- function(x) levels(as.factor(x))
 
 # Leer informacion 
-datos <- st_read("carpetas-de-investigacion-pgj-de-la-ciudad-de-mexico.geojson") %>% 
+datos <- st_read("roboAPasajerosCDMX.geojson") %>% 
   st_transform(crs = 4326)
 
 rutas <- st_read("rutas-y-corredores-del-transporte-publico-concesionado.geojson") %>% 
