@@ -6,9 +6,8 @@ library(tidyverse)
 # Mapas
 mapa <- st_read("ResultadosExtraordinaria2019PUE.geojson")
 plot(mapa, max.plot = 1)
-edo <-st_read("https://raw.githubusercontent.com/JuveCampos/MexicoSinIslas/master/Sin_islas.geojson") 
-# %>% 
-#   filter(ENTIDAD == "PUEBLA")
+edo <-st_read("https://raw.githubusercontent.com/JuveCampos/MexicoSinIslas/master/Sin_islas.geojson") %>%  
+  filter(ENTIDAD == "PUEBLA")
 
 # Mapa 1. Ganador
 paleta <- colorFactor(c("#439e3b", "#001885", "#d02a21"), mapa$Ganador)
